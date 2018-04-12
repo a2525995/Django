@@ -1,4 +1,0 @@
-#Fri Mar 09 13:49:24 CST 2018
-base.0=/home/CORPUSERS/xp023799/AndroidStudioProjects/UI_test/app/build/intermediates/transforms/dexMerger/debug/21
-path.0=classes.dex
-renamed.0=classes.dex
